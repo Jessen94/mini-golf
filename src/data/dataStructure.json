@@ -1,0 +1,15 @@
+{
+    "id": 0,
+    "game_name": "",
+    "players": 2,
+    "holes": 1,
+    "ended": true,
+    "score": [{
+        "holeid": 1,
+        "players": [{
+            "id": 0,
+            "alias": "",
+            "score": 0
+        }]
+    }]
+}
